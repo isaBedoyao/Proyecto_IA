@@ -12,3 +12,7 @@ Bioingeniería
 Jonathan Peña Guerra
 C.C 1063309730
 Ingeniería Eléctrica
+
+#Segunda entrega: 
+
+Link del video: https://www.youtube.com/watch?v=rmMOiIdjln8
